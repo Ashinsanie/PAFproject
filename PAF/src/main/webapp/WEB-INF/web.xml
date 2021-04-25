@@ -17,6 +17,21 @@
  <url-pattern>/FundService/*</url-pattern>
 </servlet-mapping>
   
+<servlet-mapping>
+ 	<servlet-name>Jersey Web Application</servlet-name>
+ 	<url-pattern>/ProjectService/*</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+ <servlet-name>Jersey Web Application</servlet-name>
+ <url-pattern>/FeedService/*</url-pattern>
+</servlet-mapping>
+  
+<servlet-mapping>
+ <servlet-name>Jersey Web Application</servlet-name>
+ <url-pattern>/UserService/*</url-pattern>
+</servlet-mapping>
+  
   
   
   
